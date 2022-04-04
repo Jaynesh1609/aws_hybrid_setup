@@ -1,2 +1,2 @@
-bucket_name = "hybrid _Setup162456"
-firewallname  = "sg_group"
+bucket_name = "your_name"
+firewallname  = "your_sec_group"
